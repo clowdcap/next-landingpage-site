@@ -9,8 +9,13 @@ module.exports = {
         sans: 'Roboto, sans-serif'
       },
       colors: {
+        
         gray: {
           900: "#121214"
+        },
+
+        primary: {
+          1: "#ED1E78"
         }
       }
     },
