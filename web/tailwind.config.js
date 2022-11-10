@@ -11,6 +11,14 @@ module.exports = {
       colors: {
         gray: {
           900: "#121214"
+        },
+
+        primary: {
+          1: "#F48E9C"
+        },
+
+        back: {
+          1: '#EEEEEE'
         }
       }
     },
